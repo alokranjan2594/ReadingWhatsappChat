@@ -58,6 +58,6 @@ setInterval(() => {
       // window.location.href = "https://web.whatsapp.com/send?phone=9928826417";
     });
   }, 5000);
-}, 20000);
+}, 6000);
 
 // });
